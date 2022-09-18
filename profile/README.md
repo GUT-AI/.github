@@ -12,4 +12,4 @@
 -->
 
 <br>
-Wleocome to GUT-AI. Say hi the future!
+Wleocome to GUT-AI. Welcome to the future!

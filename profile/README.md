@@ -13,3 +13,6 @@
 
 <br>
 Wleocome to GUT-AI. Welcome to the future!
+<br><br>
+
+__Start here:__ [GUT-AI repository](https://github.com/GUT-AI/gut-ai)

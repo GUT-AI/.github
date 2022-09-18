@@ -1,4 +1,4 @@
-## Welcome to GUT-AI! 🚀 
+## About GUT-AI 🚀 
 
 <!--
 

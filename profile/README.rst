@@ -1,7 +1,7 @@
 About GUT-AI 🚀 
 ===============
 
-Wleocome to GUT-AI. Welcome to the future!
+Welcome to GUT-AI. Welcome to the future!
 
 |
 

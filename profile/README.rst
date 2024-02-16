@@ -9,4 +9,4 @@ Welcome to GUT-AI. Welcome to the future!
 
 ----
 
-Managed by `GUT-AI Foundation <https://gut-ai.com>`_ on behalf of the worldwide, decentralized GUT-AI Initiative.
+Managed by `GUT-AI Foundation <https://gut-ai.com>`_ on behalf of the worldwide, permissionless, decentralized GUT-AI Initiative.
